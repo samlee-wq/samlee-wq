@@ -30,7 +30,8 @@ Python - AI/ML - Automation - ERPNext - WordPress - GitHub Actions
 ### Connect with me
 
 - 🌐 [Tanjong Sauce®](https://www.tanjongsauce.com)
-- 📧 sam.lee@gmail.com
+- 📧 samlgx01@gmail.com
+- 📧 sam.lee@tanjongsauce.com (business)
 - 📘 [Facebook](https://www.facebook.com/TanjongSauceOfficial)
 - 🎵 [TikTok @tanjongsauce](https://www.tiktok.com/@tanjongsauce)
 - ▶️ [YouTube @TanjongSauce](https://www.youtube.com/@TanjongSauce)
