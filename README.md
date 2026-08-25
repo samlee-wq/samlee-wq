@@ -27,6 +27,16 @@ Our premium sauces are available on:
 
 Python - AI/ML - Automation - ERPNext - WordPress - GitHub Actions
 
+### AI Agent Skills
+
+I run my business with AI agents (Hermes Agent) handling ops - cron jobs, API integrations, and system maintenance. The hard-won lessons from that are published as reusable agent skills:
+
+- 🤖 [**vps-disk-cleanup**](skills/vps-disk-cleanup/SKILL.md) - safe VPS disk cleanup; overlayfs df/du traps, base image + swapfile gotchas, curated safe-delete list
+- ⏰ [**cron-prompt-template**](skills/cron-prompt-template/SKILL.md) - cron job prompts with mandatory verification; stops agents from reporting success without evidence
+- 🔌 [**api-readiness-check**](skills/api-readiness-check/SKILL.md) - systematically test all APIs before cron jobs; known quirks for marketplace APIs, ERPNext, Airtable, and proxy services
+
+More in the [skills/](skills/) folder. Built from real incidents - the common thread is *verify with tools, not intention*.
+
 ### Connect with me
 
 - 🌐 [Tanjong Sauce®](https://www.tanjongsauce.com)
